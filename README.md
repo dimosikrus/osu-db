@@ -1,5 +1,6 @@
 # osu-db
 For Version 20250107 and below
+Tested on DB Version: 20250401
 
 data from https://github.com/ppy/osu/wiki/Legacy-database-file-structure
 
