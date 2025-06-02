@@ -133,12 +133,3 @@ class OsuDBReader:
                 'player_name': player_name,
                 'beatmaps': beatmaps
             }
-
-# Usage In This File
-if __name__ == "__main__":
-    db_data = OsuDBReader.read_db("osu!.db")
-
-# Usage OutSide
-from osudb import OsuDBreader
-if __name__ == "__main__":
-    db_data = OsuDBReader.read_db("osu!.db")
